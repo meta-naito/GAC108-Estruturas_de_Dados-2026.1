@@ -12,7 +12,7 @@ Esse repositório existe para catalogar as atividades realizadas durante as aula
 
 As pastas principais nesse repositório contém os códigos para as questões propostas de cada semana. Diferentemente da matéria GAC124, o nome dessas pastas serão os conteúdos vistos durante esse período.
 
-Cada problema terá também sua própria pasta, a fim de organizar outros arquivos que forem necessários para a resolução deles. Decidi optar por uma nomenclatura mais simples para os arquivos, denominando-os __"q[número do problema].cpp"__. As pastas dessas questões serão denominadas __"Questão[número da questão]"__.
+Cada problema terá também sua própria pasta, a fim de organizar outros arquivos que forem necessários para a resolução deles. Decidi optar por uma nomenclatura mais simples para os arquivos, denominando-os __"q[número do problema].cpp"__. As pastas dessas questões serão denominadas __"Porblema [número da questão]"__.
 
 Flags normalmente utilizadas para a compilação são `g++ -Wall -O3`.
 
